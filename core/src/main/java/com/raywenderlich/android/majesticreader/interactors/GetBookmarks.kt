@@ -1,3 +1,5 @@
+package com.raywenderlich.android.majesticreader.interactors
+
 import com.raywenderlich.android.majesticreader.data.BookmarkRepository
 import com.raywenderlich.android.majesticreader.domain.Document
 

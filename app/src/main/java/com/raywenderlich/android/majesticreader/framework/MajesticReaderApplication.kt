@@ -29,19 +29,11 @@
  */
 
 package com.raywenderlich.android.majesticreader.framework
-
-import AddBookmark
-import GetBookmarks
-import GetDocuments
-import GetOpenDocument
 import RoomBookmarkDataSource
 import android.app.Application
 import com.raywenderlich.android.majesticreader.data.BookmarkRepository
 import com.raywenderlich.android.majesticreader.data.DocumentRepository
-import com.raywenderlich.android.majesticreader.interactors.AddDocument
-import com.raywenderlich.android.majesticreader.interactors.RemoveBookmark
-import com.raywenderlich.android.majesticreader.interactors.RemoveDocument
-import com.raywenderlich.android.majesticreader.interactors.SetOpenDocument
+import com.raywenderlich.android.majesticreader.interactors.*
 
 class MajesticReaderApplication : Application() {
 

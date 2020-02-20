@@ -1,8 +1,4 @@
 package com.raywenderlich.android.majesticreader.framework
-import AddBookmark
-import GetBookmarks
-import GetDocuments
-import GetOpenDocument
 import com.raywenderlich.android.majesticreader.interactors.*
 
 class Interactors(
